@@ -1,4 +1,5 @@
-Essas são as primeiras 10 soluções dos problemas da URI/Beecrowd.
+Essas são as primeiras 10 soluções dos problemas da URI/Beecrowd em JavaScript
+
 Problemas iniciantes --> 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010;
 
 Feitos na aula do Sesc-Senac curso de Programação para WEB. 
